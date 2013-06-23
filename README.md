@@ -20,7 +20,19 @@ Prochaine réunion
 Chantiers en cours
 ------------------
 
- - Site Web
- - Communication
- - Hébergement des réunions
- - Sponsoring
+ - **Site Web** : voir [jssophia/jssophia.github.com](https://github.com/jssophia/jssophia.github.com)
+ - **Hébergement des réunions** : 
+
+Les réunions précédentes étaient hébergées chez [Avisto](http://www.avisto.com), au 2323 Chemin Saint-Bernard, Porte 15, 06220 Vallauris. Nous cherchons un nouvel hébergement, plus proche du centre de Sophia, pour que les réunions soient plus accessibles, notament via les transports en communs. 
+
+ - **Communication** :
+
+   - Twitter [@jssophia](https://twitter.com/jssophia)
+   - Google [group](http://groups.google.com/group/jssophia)
+   - Google+ [+JSSophia](https://plus.google.com/u/0/b/114956544048074189590)
+
+Gestion des comptes : dharFr
+
+ - **Sponsoring** :
+ 
+   - [Avisto](http://www.avisto.com) : Hébergement et free-food les soirs de réunions. 
