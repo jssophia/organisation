@@ -1,21 +1,38 @@
 JS Sophia-Antipolis
 ===================
 
-Ce repository est destiné à présenter et héberger tous les documents qui traitent de l'organisation du groupe. C'est aussi un espace où **chacun est libre de contributer** que ce soit en créant une nouvelle _Issue_ où en soumettant une _Pull Request_.
+Ce repository est destiné à présenter et héberger tous les documents qui traitent de l'organisation du groupe. 
+C'est aussi un espace où **chacun est libre de contributer** que ce soit en créant une nouvelle _Issue_ où en soumettant une _Pull Request_.
 
 
-Prochaine réunion
+Prochaines réunions
 -----------------
 
-**Date envisagée** : 12 Septembre 2013
+### Prochaine reunion: ApéroJS
+**Date envisagée** : Octobre 2013
 
 **Lieu** : indéterminé
 
 **Programme envisagé** : 
 
- - Talk Yeoman par Frederick Ros
- - ??
+ - Discussion sur la planification des prochaines sessions
+ - Recherche de volonrtaires pour l'association
+ - Formalisation de l'asso (loi 1901 etc)
 
+### A venir, idees en vrac de proposition
+
+
+| Titre        | Description           | Speaker  | Date envisagee | Lieu |
+| ------------- |-------------| -----|-----|-----|
+| Yeoman |conf ou/et workshop | Frederick Ross, Hugo Mallet, Fred ?? | indeterminé |indeterminé |
+| CSS pre-pocessor |Stylus vs Sass vs compass et donner des exemples avec topcoat | Corinne Krych | indeterminé |indeterminé |
+| AeroGear JS | Do you want to hear from [AeroGear](http://aerogear.org/) Project from the source? | Sébastien Blanc | indeterminé |indeterminé |
+| cujo JS | Dependency Injection as framework by SpringSource crew. See [cujo main page] (http://cujojs.com/) | Fabrice Matrat | indeterminé |indeterminé |
+| web-components | Le support est de plus en plus abouti dans les browsers, des lib/frameworks commencent à arriver, y'a de quoi faire.| Olivier Audard | indeterminé |indeterminé |
+| browsers dev-tools | Il y a eu une grosse évolution ses derniers mois, là aussi y'a beaucoup à dire. | Olivier Audard ???? ou Patrick Brosset, ex-Amadeus qui travaille sur dev tools chez Mozilla | indeterminé |indeterminé |
+| Wep-apps pour Firefox OS | nouvelles API, overview de la plateforme, marketplace, librairies, etc. (à noter que chrome pour Android vient d'ajouter l'install des webapps sur le home screen, ça peut aussi faire partie du sujet).| Olivier Audard ????  | indeterminé |indeterminé |
+| Logiciel libre| Proposition de Sebastien Blanc qui l'a rencontre au [OSDC](http://osdc.fr/) | [Jean Paul Smets](http://10ans.dysruptiv.org/p/jean-paul-smets-ceo-nexedi.html)|indeterminé|indeterminé|
+| Wakanda ou autre | Proposition de Corinne Krych qui l'a rencontre a plusieurs reprises| [Alexandre Morgaut](https://twitter.com/amorgaut)|indeterminé|indeterminé| 
 
 Chantiers en cours
 ------------------
