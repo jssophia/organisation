@@ -33,6 +33,8 @@ Prochaines réunions
 | Wep-apps pour Firefox OS | nouvelles API, overview de la plateforme, marketplace, librairies, etc. (à noter que chrome pour Android vient d'ajouter l'install des webapps sur le home screen, ça peut aussi faire partie du sujet).| Olivier Audard ????  | indeterminé |indeterminé |
 | Logiciel libre| Proposition de Sebastien Blanc qui l'a rencontre au [OSDC](http://osdc.fr/) | [Jean Paul Smets](http://10ans.dysruptiv.org/p/jean-paul-smets-ceo-nexedi.html)|indeterminé|indeterminé|
 | Wakanda ou autre | Proposition de Corinne Krych qui l'a rencontre a plusieurs reprises| [Alexandre Morgaut](https://twitter.com/amorgaut)|indeterminé|indeterminé| 
+| Data synchronization | Problématique de synchronization de données (server/server, browser/server) dans le cas général et illustration avec [notre project `sync` en développement](https://github.com/3musket33rs/sync) pour les cas dans lesquels celui-ci s'applique | [Mathieu Bruyen](https://twitter.com/mathbruyen) et [Fabrice Matrat](https://twitter.com/fabricematrat) | à partir de décembre |indeterminé| 
+
 
 Chantiers en cours
 ------------------
