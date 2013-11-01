@@ -8,16 +8,16 @@ C'est aussi un espace où **chacun est libre de contributer** que ce soit en cr�
 Prochaines réunions
 -----------------
 
-### Prochaine reunion: ApéroJS
-**Date envisagée** : Octobre 2013
+### Prochaine reunion: 
+**Date envisagée** : 28 Novembre 2013
 
-**Lieu** : indéterminé
+**Lieu** : Eurogiciel (à confirmer)
 
-**Programme envisagé** : 
+**Programme** : 
 
- - Discussion sur la planification des prochaines sessions
- - Recherche de volonrtaires pour l'association
- - Formalisation de l'asso (loi 1901 etc)
+ - cujo JS par Fabrice Matrat : Dependency Injection as framework by SpringSource crew. See [cujo main page] (http://cujojs.com/)
+ - CSS pre-pocessor par Corinne Krych et Olivier Audard : Stylus vs Sass vs compass et donner des exemples avec topcoat
+
 
 ### A venir, idees en vrac de proposition
 
@@ -25,9 +25,7 @@ Prochaines réunions
 | Titre        | Description           | Speaker  | Date envisagee | Lieu |
 | ------------- |-------------| -----|-----|-----|
 | Yeoman |conf ou/et workshop | Frederick Ross, Hugo Mallet, Fred ?? | indeterminé |indeterminé |
-| CSS pre-pocessor |Stylus vs Sass vs compass et donner des exemples avec topcoat | Corinne Krych | indeterminé |indeterminé |
 | AeroGear JS | Do you want to hear from [AeroGear](http://aerogear.org/) Project from the source? | Sébastien Blanc | indeterminé |indeterminé |
-| cujo JS | Dependency Injection as framework by SpringSource crew. See [cujo main page] (http://cujojs.com/) | Fabrice Matrat | indeterminé |indeterminé |
 | web-components | Le support est de plus en plus abouti dans les browsers, des lib/frameworks commencent à arriver, y'a de quoi faire.| Olivier Audard | indeterminé |indeterminé |
 | browsers dev-tools | Il y a eu une grosse évolution ses derniers mois, là aussi y'a beaucoup à dire. | Olivier Audard ???? ou Patrick Brosset, ex-Amadeus qui travaille sur dev tools chez Mozilla | indeterminé |indeterminé |
 | Wep-apps pour Firefox OS | nouvelles API, overview de la plateforme, marketplace, librairies, etc. (à noter que chrome pour Android vient d'ajouter l'install des webapps sur le home screen, ça peut aussi faire partie du sujet).| Olivier Audard ????  | indeterminé |indeterminé |
