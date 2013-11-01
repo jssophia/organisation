@@ -37,6 +37,7 @@ Prochaines réunions
 Chantiers en cours
 ------------------
 
+ - **Création d'une association 1901** : on en discute [ici](https://github.com/jssophia/organisation/issues/1), n'hésitez pas à participer.
  - **Site Web** : voir [jssophia/jssophia.github.com](https://github.com/jssophia/jssophia.github.com)
  - **Hébergement des réunions** : 
 
