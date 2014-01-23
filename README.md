@@ -9,15 +9,26 @@ Prochaines réunions
 -----------------
 
 ### Prochaine reunion: 
-**Date envisagée** : 28 Novembre 2013
 
-**Lieu** : Eurogiciel (à confirmer)
+#### Fevrier
+**Date envisagée** : 20 Février 2014
+
+**Lieu** : pas encore défini
 
 **Programme** : 
 
- - cujo JS par Fabrice Matrat : Dependency Injection as framework by SpringSource crew. See [cujo main page] (http://cujojs.com/)
- - CSS pre-pocessor par Corinne Krych et Olivier Audard : Stylus vs Sass vs compass et donner des exemples avec topcoat
+ - Sync par [Mathieu Bruyen](https://twitter.com/mathbruyen) 
+ - Yacine (à confirmer)
 
+#### Mars
+**Date envisagée** : 20 Mars 2014
+
+**Lieu** : pas encore défini
+
+**Programme** : 
+
+ - browsers dev-tools par Patrick Brosset
+ - pas encore déterminé
 
 ### A venir, idees en vrac de proposition
 
@@ -34,6 +45,19 @@ Prochaines réunions
 | Data synchronization | Problématique de synchronization de données (server/server, browser/server) dans le cas général et illustration avec [notre project `sync` en développement](https://github.com/3musket33rs/sync) pour les cas dans lesquels celui-ci s'applique | [Mathieu Bruyen](https://twitter.com/mathbruyen) et [Fabrice Matrat](https://twitter.com/fabricematrat) | à partir de décembre |indeterminé| 
 | Isomorphic web applications | Partage du code applicatif entre serveur et client, posts: [Isomorphic JavaScript: The Future of Web Apps](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/), [Scaling Isomorphic Javascript Code](http://blog.nodejitsu.com/scaling-isomorphic-javascript-code) | celui qui le veut! | à partir de février pour [Mathieu Bruyen](https://twitter.com/mathbruyen) |indeterminé| 
 | node.js | ... | Julien Faissolle | ...| 
+
+### Les réunion preécédentes: 
+#### Cujo + CSS prepocessors
+**Date** : 28 Novembre 2013
+
+**Lieu** : Eurogiciel (à confirmer)
+
+**Programme** : 
+
+ - cujo JS par Fabrice Matrat : Dependency Injection as framework by SpringSource crew. See [cujo main page] (http://cujojs.com/). See http://fabricematrat.github.io/cujoprez
+ - CSS [preproCeSSor] (http://corinnekrych.github.io/preproCeSSor) par Corinne Krych et Olivier Audard : Stylus vs Sass vs compass et donner des exemples avec topcoat
+** Link to presentations**
+
 
 Chantiers en cours
 ------------------
