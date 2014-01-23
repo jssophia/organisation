@@ -38,7 +38,7 @@ Prochaines réunions
 | Yeoman |conf ou/et workshop | Frederick Ross, Hugo Mallet, Fred ?? | indeterminé |indeterminé |
 | AeroGear JS | Do you want to hear from [AeroGear](http://aerogear.org/) Project from the source? | Sébastien Blanc | indeterminé |indeterminé |
 | web-components | Le support est de plus en plus abouti dans les browsers, des lib/frameworks commencent à arriver, y'a de quoi faire.| Olivier Audard | indeterminé |indeterminé |
-| browsers dev-tools | Il y a eu une grosse évolution ses derniers mois, là aussi y'a beaucoup à dire. | Olivier Audard ???? ou Patrick Brosset, ex-Amadeus qui travaille sur dev tools chez Mozilla | indeterminé |indeterminé |
+| browsers dev-tools | Il y a eu une grosse évolution ses derniers mois, là aussi y'a beaucoup à dire. | Olivier Audard  ou Patrick Brosset qui travaille sur dev tools chez Mozilla | indeterminé |indeterminé |
 | Wep-apps pour Firefox OS | nouvelles API, overview de la plateforme, marketplace, librairies, etc. (à noter que chrome pour Android vient d'ajouter l'install des webapps sur le home screen, ça peut aussi faire partie du sujet).| Olivier Audard ????  | indeterminé |indeterminé |
 | Logiciel libre| Proposition de Sebastien Blanc qui l'a rencontre au [OSDC](http://osdc.fr/) | [Jean Paul Smets](http://10ans.dysruptiv.org/p/jean-paul-smets-ceo-nexedi.html)|indeterminé|indeterminé|
 | Wakanda ou autre | Proposition de Corinne Krych qui l'a rencontre a plusieurs reprises| [Alexandre Morgaut](https://twitter.com/amorgaut)|indeterminé|indeterminé| 
