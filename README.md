@@ -27,7 +27,7 @@ Prochaines réunions
 
 **Programme** : 
 
- - browsers dev-tools par Patrick Brosset
+ - browsers dev-tools par [Patrick Brosset](https://github.com/captainbrosset)
  - pas encore déterminé
 
 ### A venir, idees en vrac de proposition
