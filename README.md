@@ -18,7 +18,7 @@ Prochaines réunions
 **Programme** : 
 
  - Sync par [Mathieu Bruyen](https://twitter.com/mathbruyen) 
- - Yacine (à confirmer)
+ - Backend As A Service (avec JS) [Yacine Rezgui](https://github.com/yrezgui)
 
 #### Mars
 **Date envisagée** : 20 Mars 2014
