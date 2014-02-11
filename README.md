@@ -21,9 +21,9 @@ Prochaines réunions
  - Backend As A Service (avec JS) [Yacine Rezgui](https://github.com/yrezgui)
 
 #### Mars
-**Date envisagée** : 20 Mars 2014
+**Date envisagée** : 27 Mars 2014
 
-**Lieu** : pas encore défini
+**Lieu** : Amadeus - Mistral auditorium
 
 **Programme** : 
 
