@@ -11,7 +11,7 @@ Prochaines réunions
 ### Prochaine reunion: 
 
 #### Fevrier
-**Date envisagée** : 20 Février 2014
+**Date** : 20 Février 2014
 
 **Lieu** : pas encore défini
 
@@ -21,7 +21,7 @@ Prochaines réunions
  - Backend As A Service (avec JS) [Yacine Rezgui](https://github.com/yrezgui)
 
 #### Mars
-**Date envisagée** : 27 Mars 2014
+**Date** : 27 Mars 2014
 
 **Lieu** : Amadeus - Mistral auditorium
 
