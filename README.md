@@ -13,7 +13,10 @@ Prochaines réunions
 #### Fevrier
 **Date** : 20 Février 2014
 
-**Lieu** : pas encore défini
+**Lieu** : [CrossKnowledge](https://maps.google.fr/maps/ms?ie=UTF8&oe=UTF8&msa=0&msid=213516934606572649154.0004b250ffc74c0b7e5bc&dg=feature) 
+1360, route des Dolines 
+Les Cardoulines B4
+06560 Sophia-Antipolis
 
 **Programme** : 
 
