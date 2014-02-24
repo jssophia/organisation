@@ -10,19 +10,6 @@ Prochaines réunions
 
 ### Prochaine reunion: 
 
-#### Fevrier
-**Date** : 20 Février 2014
-
-**Lieu** : [CrossKnowledge](https://maps.google.fr/maps/ms?ie=UTF8&oe=UTF8&msa=0&msid=213516934606572649154.0004b250ffc74c0b7e5bc&dg=feature) 
-1360, route des Dolines 
-Les Cardoulines B4
-06560 Sophia-Antipolis
-
-**Programme** : 
-
- - Sync par [Mathieu Bruyen](https://twitter.com/mathbruyen) 
- - Backend As A Service (avec JS) [Yacine Rezgui](https://github.com/yrezgui)
-
 #### Mars
 **Date** : 27 Mars 2014
 
@@ -41,15 +28,16 @@ Les Cardoulines B4
 | Yeoman |conf ou/et workshop | Frederick Ross, Hugo Mallet, Fred ?? | indeterminé |indeterminé |
 | AeroGear JS | Do you want to hear from [AeroGear](http://aerogear.org/) Project from the source? | Sébastien Blanc | indeterminé |indeterminé |
 | web-components | Le support est de plus en plus abouti dans les browsers, des lib/frameworks commencent à arriver, y'a de quoi faire.| Olivier Audard | indeterminé |indeterminé |
-| browsers dev-tools | Il y a eu une grosse évolution ses derniers mois, là aussi y'a beaucoup à dire. | Olivier Audard  ou Patrick Brosset qui travaille sur dev tools chez Mozilla | indeterminé |indeterminé |
 | Wep-apps pour Firefox OS | nouvelles API, overview de la plateforme, marketplace, librairies, etc. (à noter que chrome pour Android vient d'ajouter l'install des webapps sur le home screen, ça peut aussi faire partie du sujet).| Olivier Audard ????  | indeterminé |indeterminé |
 | Logiciel libre| Proposition de Sebastien Blanc qui l'a rencontre au [OSDC](http://osdc.fr/) | [Jean Paul Smets](http://10ans.dysruptiv.org/p/jean-paul-smets-ceo-nexedi.html)|indeterminé|indeterminé|
 | Wakanda ou autre | Proposition de Corinne Krych qui l'a rencontre a plusieurs reprises| [Alexandre Morgaut](https://twitter.com/amorgaut)|indeterminé|indeterminé| 
-| Data synchronization | Problématique de synchronization de données (server/server, browser/server) dans le cas général et illustration avec [notre project `sync` en développement](https://github.com/3musket33rs/sync) pour les cas dans lesquels celui-ci s'applique | [Mathieu Bruyen](https://twitter.com/mathbruyen) et [Fabrice Matrat](https://twitter.com/fabricematrat) | à partir de décembre |indeterminé| 
 | Isomorphic web applications | Partage du code applicatif entre serveur et client, posts: [Isomorphic JavaScript: The Future of Web Apps](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/), [Scaling Isomorphic Javascript Code](http://blog.nodejitsu.com/scaling-isomorphic-javascript-code) | celui qui le veut! | à partir de février pour [Mathieu Bruyen](https://twitter.com/mathbruyen) |indeterminé| 
 | node.js | ... | Julien Faissolle | ...| 
-
-### Les réunion preécédentes: 
+| TypeScript | ... | Mathieu Barthelemy, Stephane Erard| ...| 
+| HTML5 and accessibility | ... | Mathieu Barthelemy, Stephane Erard| ...| 
+| unit test running on phantom | ... | Mathieu Barthelemy, Stephane Erard| ...| 
+| requestAnimationFrame, promises  | ... | Stephane Erard| ...| 
+### Les réunion spreécédentes: 
 #### Cujo + CSS prepocessors
 **Date** : 28 Novembre 2013
 
@@ -60,7 +48,18 @@ Les Cardoulines B4
  - cujo JS par Fabrice Matrat : Dependency Injection as framework by SpringSource crew. See [cujo main page] (http://cujojs.com/). See http://fabricematrat.github.io/cujoprez
  - CSS [preproCeSSor] (http://corinnekrych.github.io/preproCeSSor) par Corinne Krych et Olivier Audard : Stylus vs Sass vs compass et donner des exemples avec topcoat
 ** Link to presentations**
+#### Fevrier
+**Date** : 20 Février 2014
 
+**Lieu** : [CrossKnowledge](https://maps.google.fr/maps/ms?ie=UTF8&oe=UTF8&msa=0&msid=213516934606572649154.0004b250ffc74c0b7e5bc&dg=feature) 
+1360, route des Dolines 
+Les Cardoulines B4
+06560 Sophia-Antipolis
+
+**Programme** : 
+
+ - Sync par [Mathieu Bruyen](https://twitter.com/mathbruyen) 
+ - Backend As A Service (avec JS) [Yacine Rezgui](https://github.com/yrezgui)
 
 Chantiers en cours
 ------------------
