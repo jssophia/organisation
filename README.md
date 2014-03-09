@@ -10,7 +10,8 @@ Prochaines réunions
 
 ### Prochaine reunion: 
 
-#### Mars
+#### JSSophia #10
+
 **Date** : 27 Mars 2014
 
 **Lieu** : Amadeus - Mistral auditorium
@@ -37,18 +38,11 @@ Prochaines réunions
 | HTML5 and accessibility | ... | Mathieu Barthelemy, Stephane Erard| ...| 
 | unit test running on phantom | ... | Mathieu Barthelemy, Stephane Erard| ...| 
 | requestAnimationFrame, promises  | ... | Stephane Erard| ...| 
-### Les réunion spreécédentes: 
-#### Cujo + CSS prepocessors
-**Date** : 28 Novembre 2013
 
-**Lieu** : Eurogiciel (à confirmer)
+### Les réunions précédentes: 
 
-**Programme** : 
+#### JSSophia #9
 
- - cujo JS par Fabrice Matrat : Dependency Injection as framework by SpringSource crew. See [cujo main page] (http://cujojs.com/). See http://fabricematrat.github.io/cujoprez
- - CSS [preproCeSSor] (http://corinnekrych.github.io/preproCeSSor) par Corinne Krych et Olivier Audard : Stylus vs Sass vs compass et donner des exemples avec topcoat
-** Link to presentations**
-#### Fevrier
 **Date** : 20 Février 2014
 
 **Lieu** : [CrossKnowledge](https://maps.google.fr/maps/ms?ie=UTF8&oe=UTF8&msa=0&msid=213516934606572649154.0004b250ffc74c0b7e5bc&dg=feature) 
@@ -60,6 +54,19 @@ Les Cardoulines B4
 
  - Sync par [Mathieu Bruyen](https://twitter.com/mathbruyen) 
  - Backend As A Service (avec JS) [Yacine Rezgui](https://github.com/yrezgui)
+
+#### JSSophia #8
+
+**Date** : 28 Novembre 2013
+
+**Lieu** : Eurogiciel
+
+**Programme** : 
+
+ - cujo JS par Fabrice Matrat : Dependency Injection as framework by SpringSource crew. See [cujo main page] (http://cujojs.com/). See http://fabricematrat.github.io/cujoprez
+ - CSS [preproCeSSor] (http://corinnekrych.github.io/preproCeSSor) par Corinne Krych et Olivier Audard : Stylus vs Sass vs compass et donner des exemples avec topcoat
+
+**Link to presentations**
 
 Chantiers en cours
 ------------------
