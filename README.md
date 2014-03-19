@@ -14,12 +14,15 @@ Prochaines réunions
 
 **Date** : 27 Mars 2014
 
-**Lieu** : Amadeus - Mistral auditorium
+**Lieu** : Amadeus - Mistral auditorium (485 Route du Pin Montard, Sophia-Antipolis)
 
 **Programme** : 
 
- - browsers dev-tools par [Patrick Brosset](https://github.com/captainbrosset)
- - pas encore déterminé
+ - Browsers dev-tools par [Patrick Brosset](https://github.com/captainbrosset)
+ - Animations avec deferreds + requestAnimationFrame avec [Stephane Erard](https://github.com/stephaneerard)
+
+**Inscriptions** : http://www.meetup.com/FranceJS/events/172108192/
+ 
 
 ### A venir, idees en vrac de proposition
 
