@@ -41,6 +41,11 @@ Prochaines réunions
 | HTML5 and accessibility | ... | Mathieu Barthelemy, Stephane Erard| ...| 
 | unit test running on phantom | ... | Mathieu Barthelemy, Stephane Erard| ...| 
 | requestAnimationFrame, promises  | ... | Stephane Erard| ...| 
+| Cordova | How to build cross platform applications with Cordova | Erik Jan de Wit | 15 may |indeterminé |
+
+### Les réunions précédentes: 
+#### Cujo + CSS prepocessors
+**Date** : 28 Novembre 2013
 
 ### Les réunions précédentes: 
 
@@ -66,8 +71,8 @@ Les Cardoulines B4
 
 **Programme** : 
 
- - cujo JS par Fabrice Matrat : Dependency Injection as framework by SpringSource crew. See [cujo main page] (http://cujojs.com/). See http://fabricematrat.github.io/cujoprez
- - CSS [preproCeSSor] (http://corinnekrych.github.io/preproCeSSor) par Corinne Krych et Olivier Audard : Stylus vs Sass vs compass et donner des exemples avec topcoat
+ - cujo JS par Fabrice Matrat : Dependency Injection as framework by SpringSource crew. See [cujo main page](http://cujojs.com/). See http://fabricematrat.github.io/cujoprez
+ - CSS [preproCeSSor](http://corinnekrych.github.io/preproCeSSor) par Corinne Krych et Olivier Audard : Stylus vs Sass vs compass et donner des exemples avec topcoat
 
 **Link to presentations**
 
