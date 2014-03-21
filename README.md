@@ -37,6 +37,8 @@ Prochaines réunions
 | HTML5 and accessibility | ... | Mathieu Barthelemy, Stephane Erard| ...| 
 | unit test running on phantom | ... | Mathieu Barthelemy, Stephane Erard| ...| 
 | requestAnimationFrame, promises  | ... | Stephane Erard| ...| 
+| Cordova | How to build cross platform applications with Cordova | Erik Jan de Wit | 15 may |indeterminé |
+
 ### Les réunion spreécédentes: 
 #### Cujo + CSS prepocessors
 **Date** : 28 Novembre 2013
