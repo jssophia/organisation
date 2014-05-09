@@ -10,18 +10,20 @@ Prochaines réunions
 
 ### Prochaine reunion: 
 
-#### JSSophia #10
+#### JSSophia #11
 
-**Date** : 27 Mars 2014
+**Date** : 22 Mai 2014
 
-**Lieu** : Amadeus - Mistral auditorium (485 Route du Pin Montard, Sophia-Antipolis)
+**Lieu** : a determiner
 
 **Programme** : 
 
- - Browsers dev-tools par [Patrick Brosset](https://github.com/captainbrosset)
- - Animations avec deferreds + requestAnimationFrame avec [Stephane Erard](https://github.com/stephaneerard)
+ - [How to build cross platform applications with Cordova](https://gist.github.com/edewit/6a19ccf0cfb845f6c849) par [Erik Jan De Wit](https://github.com/edewit)
+ - Lightening talks avec VOUS! soyez volontaire
+ - Yacine a propos de cordova like Dropbox
+ - Sebi on ionic + cordova
 
-**Inscriptions** : http://www.meetup.com/FranceJS/events/172108192/
+**Inscriptions** : todo
  
 
 ### A venir, idees en vrac de proposition
@@ -40,14 +42,26 @@ Prochaines réunions
 | TypeScript | ... | Mathieu Barthelemy, Stephane Erard| ...| 
 | HTML5 and accessibility | ... | Mathieu Barthelemy, Stephane Erard| ...| 
 | unit test running on phantom | ... | Mathieu Barthelemy, Stephane Erard| ...| 
-| requestAnimationFrame, promises  | ... | Stephane Erard| ...| 
-| Cordova | How to build cross platform applications with Cordova | Erik Jan de Wit | 15 may |indeterminé |
+
 
 ### Les réunions précédentes: 
 #### Cujo + CSS prepocessors
 **Date** : 28 Novembre 2013
 
 ### Les réunions précédentes: 
+
+#### JSSophia #10
+
+**Date** : 27 Mars 2014
+
+**Lieu** : Amadeus - Mistral auditorium (485 Route du Pin Montard, Sophia-Antipolis)
+
+**Programme** : 
+
+ - Browsers dev-tools par [Patrick Brosset](https://github.com/captainbrosset)
+ - Animations avec deferreds + requestAnimationFrame avec [Stephane Erard](https://github.com/stephaneerard)
+
+**Inscriptions** : http://www.meetup.com/FranceJS/events/172108192/
 
 #### JSSophia #9
 
