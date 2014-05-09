@@ -22,6 +22,8 @@ Prochaines réunions
  - Lightening talks avec VOUS! soyez volontaire
  - Yacine a propos de cordova like Dropbox
  - Sebi on ionic + cordova
+ - Fred sur: "mean.io : framework/boilerplate mongo, express, angular, node" ou "gamepad api"
+ - Bertrand G. "Debug sous Android d'un app Cordova (avec Yeoman et ionic)"
 
 **Inscriptions** : todo
  
