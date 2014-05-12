@@ -21,9 +21,10 @@ Prochaines réunions
  - [How to build cross platform applications with Cordova](https://gist.github.com/edewit/6a19ccf0cfb845f6c849) par [Erik Jan De Wit](https://github.com/edewit)
  - Lightening talks avec VOUS! soyez volontaire
  - Yacine a propos de cordova like Dropbox
- - Sebi on ionic + cordova
+ - Sebi on Firefox OS
  - Fred sur: "mean.io : framework/boilerplate mongo, express, angular, node" ou "gamepad api"
  - Bertrand G. "Debug sous Android d'un app Cordova (avec Yeoman et ionic)"
+ - Mathieu on TBD 
 
 **Inscriptions** : todo
  
