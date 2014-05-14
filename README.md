@@ -25,7 +25,7 @@ Prochaines réunions
  - Fred sur: "mean.io : framework/boilerplate mongo, express, angular, node" ou "gamepad api"
  - Bertrand G. "Debug sous Android d'un app Cordova (avec Yeoman et ionic)"
  - Bertrand L. sur [noderJS](http://noder-js.ariatemplates.com/)
- - Mathieu on TBD 
+ - Mathieu on browserify 
 
 **Inscriptions** : todo
  
