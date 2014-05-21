@@ -14,7 +14,7 @@ Prochaines réunions
 
 **Date** : 22 Mai 2014
 
-**Lieu** : a determiner
+**Lieu** : CrossKnowledge see [meetup event for more details](http://www.meetup.com/FranceJS/events/182593512/?a=cr1_grp&rv=cr1&_af_eid=182593512&_af=event)
 
 **Programme** : 
 
