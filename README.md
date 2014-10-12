@@ -52,6 +52,22 @@ Prochaines réunions
 
 ### Les réunions précédentes: 
 
+#### JSSophia #11
+
+**Date** : 22 May 2014
+
+**Lieu** : CrossKnowledge
+
+**Programme** : 
+
+ - Cordova par [Erik Jan de Wit](https://github.com/captainbrosset)
+ - Lightening talks: Matthieu, Sebi, Bertrand L., Bertrand G., Fred, Yacine.
+ 
+Blog post: http://corinnekrych.blogspot.fr/2014/05/mobile-and-lightening-talks-at-jssophia.html
+
+
+**Inscriptions** : http://www.meetup.com/FranceJS/events/172108192/
+
 #### JSSophia #10
 
 **Date** : 27 Mars 2014
