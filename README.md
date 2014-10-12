@@ -10,24 +10,15 @@ Prochaines réunions
 
 ### Prochaine reunion: 
 
-#### JSSophia #11
+#### JSSophia #12
 
-**Date** : 22 Mai 2014
+**Date** : TBD
 
-**Lieu** : CrossKnowledge see [meetup event for more details](http://www.meetup.com/FranceJS/events/182593512/?a=cr1_grp&rv=cr1&_af_eid=182593512&_af=event)
+**Lieu** : TBD
 
-**Programme** : 
+**Programme** : Chat, drink and discuss future sessions.
 
- - [How to build cross platform applications with Cordova](https://gist.github.com/edewit/6a19ccf0cfb845f6c849) par [Erik Jan De Wit](https://github.com/edewit)
- - Lightening talks avec VOUS! soyez volontaire
- - Yacine a propos de cordova like Dropbox
- - Sebi on Firefox OS
- - Fred sur: "mean.io : framework/boilerplate mongo, express, angular, node" ou "gamepad api"
- - Bertrand G. "Debug sous Android d'un app Cordova (avec Yeoman et ionic)"
- - Bertrand L. sur [noderJS](http://noder-js.ariatemplates.com/)
- - Mathieu on browserify 
-
-**Inscriptions** : todo
+**Inscriptions** : http://doodle.com/68cdpn6f5wsqt2g9#table
  
 
 ### A venir, idees en vrac de proposition
@@ -54,17 +45,21 @@ Prochaines réunions
 
 #### JSSophia #11
 
-**Date** : 22 May 2014
-
-**Lieu** : CrossKnowledge
+**Lieu** : CrossKnowledge see [meetup event for more details](http://www.meetup.com/FranceJS/events/182593512/?a=cr1_grp&rv=cr1&_af_eid=182593512&_af=event)
 
 **Programme** : 
 
- - Cordova par [Erik Jan de Wit](https://github.com/captainbrosset)
- - Lightening talks: Matthieu, Sebi, Bertrand L., Bertrand G., Fred, Yacine.
+ - [How to build cross platform applications with Cordova](https://gist.github.com/edewit/6a19ccf0cfb845f6c849) par [Erik Jan De Wit](https://github.com/edewit)
+ - Lightening talks avec VOUS! soyez volontaire
+ - Yacine a propos de cordova like Dropbox
+ - Sebi on Firefox OS
+ - Fred sur: "mean.io : framework/boilerplate mongo, express, angular, node" ou "gamepad api"
+ - Bertrand G. "Debug sous Android d'un app Cordova (avec Yeoman et ionic)"
+ - Bertrand L. sur [noderJS](http://noder-js.ariatemplates.com/)
+ - Mathieu on browserify 
  
-Blog post: http://corinnekrych.blogspot.fr/2014/05/mobile-and-lightening-talks-at-jssophia.html
-
+**Blog post**
+Corinne chats about it [here](http://corinnekrych.blogspot.fr/2014/05/mobile-and-lightening-talks-at-jssophia.html)
 
 **Inscriptions** : http://www.meetup.com/FranceJS/events/172108192/
 
