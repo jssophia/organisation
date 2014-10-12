@@ -36,11 +36,9 @@ Prochaines réunions
 | Titre        | Description           | Speaker  | Date envisagee | Lieu |
 | ------------- |-------------| -----|-----|-----|
 | Yeoman |conf ou/et workshop | Frederick Ross, Hugo Mallet, Fred ?? | indeterminé |indeterminé |
-| AeroGear JS | Do you want to hear from [AeroGear](http://aerogear.org/) Project from the source? | Sébastien Blanc | indeterminé |indeterminé |
 | web-components | Le support est de plus en plus abouti dans les browsers, des lib/frameworks commencent à arriver, y'a de quoi faire.| Olivier Audard | indeterminé |indeterminé |
 | Wep-apps pour Firefox OS | nouvelles API, overview de la plateforme, marketplace, librairies, etc. (à noter que chrome pour Android vient d'ajouter l'install des webapps sur le home screen, ça peut aussi faire partie du sujet).| Olivier Audard ????  | indeterminé |indeterminé |
 | Logiciel libre| Proposition de Sebastien Blanc qui l'a rencontre au [OSDC](http://osdc.fr/) | [Jean Paul Smets](http://10ans.dysruptiv.org/p/jean-paul-smets-ceo-nexedi.html)|indeterminé|indeterminé|
-| Wakanda ou autre | Proposition de Corinne Krych qui l'a rencontre a plusieurs reprises| [Alexandre Morgaut](https://twitter.com/amorgaut)|indeterminé|indeterminé| 
 | Isomorphic web applications | Partage du code applicatif entre serveur et client, posts: [Isomorphic JavaScript: The Future of Web Apps](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/), [Scaling Isomorphic Javascript Code](http://blog.nodejitsu.com/scaling-isomorphic-javascript-code) | celui qui le veut! | à partir de février pour [Mathieu Bruyen](https://twitter.com/mathbruyen) |indeterminé| 
 | node.js | ... | Julien Faissolle | ...| 
 | TypeScript | ... | Mathieu Barthelemy, Stephane Erard| ...| 
