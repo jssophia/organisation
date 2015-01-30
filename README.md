@@ -10,13 +10,13 @@ Prochaines réunions
 
 ### Prochaine reunion: 
 
-#### JSSophia #12
+#### JSSophia #13
 
-**Date** : TBD
+**Date** : Fevrier 2015
 
-**Lieu** : TBD
+**Lieu** : Green King
 
-**Programme** : Chat, drink and discuss future sessions.
+**Programme** : Chat, drink, discuss future sessions.
 
 **Inscriptions** : http://doodle.com/68cdpn6f5wsqt2g9#table
  
@@ -42,6 +42,16 @@ Prochaines réunions
 **Date** : 28 Novembre 2013
 
 ### Les réunions précédentes: 
+
+#### JSSophia #12
+
+**Date** : 6/11/2014
+
+**Lieu** : Green King
+
+**Programme** : Chat, drink and discuss future sessions.
+
+**Inscriptions** : http://doodle.com/68cdpn6f5wsqt2g9#table
 
 #### JSSophia #11
 
