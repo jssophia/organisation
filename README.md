@@ -29,7 +29,7 @@ Prochaines réunions
 | web-components | Le support est de plus en plus abouti dans les browsers, des lib/frameworks commencent à arriver, y'a de quoi faire.| Olivier Audard | indeterminé |indeterminé |
 | Wep-apps pour Firefox OS | nouvelles API, overview de la plateforme, marketplace, librairies, etc. (à noter que chrome pour Android vient d'ajouter l'install des webapps sur le home screen, ça peut aussi faire partie du sujet).| Olivier Audard ????  | indeterminé |indeterminé |
 | Logiciel libre| Proposition de Sebastien Blanc qui l'a rencontre au [OSDC](http://osdc.fr/) | [Jean Paul Smets](http://10ans.dysruptiv.org/p/jean-paul-smets-ceo-nexedi.html)|indeterminé|indeterminé|
-| Isomorphic web applications | Partage du code applicatif entre serveur et client, posts: [Isomorphic JavaScript: The Future of Web Apps](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/), [Scaling Isomorphic Javascript Code](http://blog.nodejitsu.com/scaling-isomorphic-javascript-code) | celui qui le veut! | à partir de février pour [Mathieu Bruyen](https://twitter.com/mathbruyen) |indeterminé| 
+| Isomorphic web applications | Partage du code applicatif entre serveur et client, posts: [Isomorphic JavaScript: The Future of Web Apps](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/), [Scaling Isomorphic Javascript Code](http://blog.nodejitsu.com/scaling-isomorphic-javascript-code) | Mathieu Bruyen | à partir de février |indeterminé| 
 | TypeScript | ... | Mathieu Barthelemy, Stephane Erard| ...| 
 | HTML5 and accessibility | ... | Mathieu Barthelemy, Stephane Erard| ...| 
 | unit test running on phantom | ... | Mathieu Barthelemy, Stephane Erard| ...| 
